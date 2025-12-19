@@ -3,7 +3,7 @@ main:
   - title: "Revisiting Virtual Memory Support for Confidential Computing Environments"
     authors: <strong>Haoyu Wang</strong>, Noa Zillberman, Ahmad Atamli, Amro Awad
     conference_short: CAL
-    conference: IEEE Computer Architecture Letters <strong>(CAL)</strong>, 2026.
+    conference: IEEE Computer Architecture Letters <strong>(CAL)</strong>, 2025.
     pdf: 
     code: 
     bibtex: 

@@ -1,10 +1,21 @@
 ## Teaching
 
-<ul style="margin:0 0 20px;">
-  <li><autocolor><strong>Lab Assistant & MSc Supervisor</strong>, University of Southampton (2022-2025)</autocolor>
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 15px;">
+  <li><autocolor><strong>University of Southampton</strong> (2022-2025)</autocolor>
     <ul>
       <li>VLSI System Design (Led by Iain MacNally)</li>
       <li>Advanced Computer Architecture</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Master's Student Supervision</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor><strong>University of Southampton</strong> (2022-2025)</autocolor>
+    <ul>
       <li>Supervised MSc students, resulting in 2 co-authored publications</li>
     </ul>
   </li>
