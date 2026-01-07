@@ -4,7 +4,7 @@ main:
     authors: <strong>Haoyu Wang</strong>, Noa Zillberman, Ahmad Atamli, Amro Awad
     conference_short: CAL
     conference: IEEE Computer Architecture Letters <strong>(CAL)</strong>, 2025.
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/document/11174973
     code: 
     bibtex: 
     image: ./assets/img/teaser_cal.png
