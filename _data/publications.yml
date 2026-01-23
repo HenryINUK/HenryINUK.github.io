@@ -18,7 +18,17 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/teaser_dl2fence.png
-    notes: 
+    notes:
+
+  - title: "Gem5-Shark: Smaug-based Heterogeneous Deep Learning Accelerator Security and Reliability Evaluation and Characterization Framework"
+    authors: <strong>Haoyu Wang</strong>, Haosen Yu, Ahmad Atamli, Basel Halak
+    conference_short: TECS
+    conference: ACM Transactions on Embedded Computing Systems <strong>(TECS)</strong>.
+    pdf:
+    code:
+    bibtex:
+    image:
+    notes: Under Review
 
   - title: "GNS: Graph-based Network-on-Chip Shield for Early Defense Against Malicious Nodes in MPSoC"
     authors: <strong>Haoyu Wang</strong>, Jianjie Ren, Basel Halak, Ahmad Atamli
